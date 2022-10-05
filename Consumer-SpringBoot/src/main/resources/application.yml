@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    virtual-host: /
+    host: localhost
+    username: pickle
+    password: pickle
+    port: 5672
